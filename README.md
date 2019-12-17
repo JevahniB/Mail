@@ -1,2 +1,2 @@
-# Mail
+# Main
 main
